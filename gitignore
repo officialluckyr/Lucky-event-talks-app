@@ -1,0 +1,16 @@
+# Dependencies
+/node_modules
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build output
+/public/index_standalone.html
+
+# Environment variables
+.env
+
+# Build Scripts
+compile.js
